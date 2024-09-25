@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/t8y2](https://github.com/t8y2)
-
 - 📝 I regularly write articles on [http://1.116.107.75:8090/](http://1.116.107.75:8090/)
 
 - 📫 How to reach me **1156263951@qq.com**
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wiz1code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wiz1code" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/wiz1code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="wiz1code" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
