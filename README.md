@@ -5,19 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t8y2" alt="t8y2" /></a> </p>
 
-- 🔭 I’m currently working on **voice-score**
-
 - 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/t8y2](https://github.com/t8y2)
 
 - 📝 I regularly write articles on [http://1.116.107.75:8090/](http://1.116.107.75:8090/)
 
-- 💬 Ask me about **vue and python**
-
 - 📫 How to reach me **1156263951@qq.com**
-
-- 📄 Know about my experiences [http://1.116.107.75:8090/about](http://1.116.107.75:8090/about)
 
 - ⚡ Fun fact **I think I am hardworking**
 
