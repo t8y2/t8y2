@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 📝 I regularly write articles on [http://1.116.107.75:8090/](http://1.116.107.75:8090/)
-
 - 📫 How to reach me **1156263951@qq.com**
 
 - ⚡ Fun fact **I think I am hardworking**
