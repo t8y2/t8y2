@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 👨‍💻 All of my projects are available at [www.jiexijun.com](www.jiexijun.com)
+- 👨‍💻 All of my projects are available at [https://www.jiexijun.com](https://www.jiexijun.com)
 
-- 📝 I regularly write articles on [www.jiexijun.com](www.jiexijun.com)
+- 📝 I regularly write articles on [https://www.jiexijun.com](https://www.jiexijun.com)
 
 - 💬 Ask me about **AI、React、Vue、Python、Docker**
 
