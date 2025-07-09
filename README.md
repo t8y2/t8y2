@@ -11,10 +11,6 @@
 
 - 📝 I regularly write articles on [https://www.jiexijun.com](https://www.jiexijun.com)
 
-- 💬 Ask me about **AI、React、Vue、Python、Docker**
-
-- 📫 How to reach me **1156263951@qq.com**
-
 - ⚡ Fun fact **I think i am modest and hardworking**
 
 <h3 align="left">Connect with me:</h3>
