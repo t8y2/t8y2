@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 👨‍💻 All of my projects are available at [https://www.jiexijun.com](https://www.jiexijun.com)
-
 - 📝 I regularly write articles on [https://www.jiexijun.com](https://www.jiexijun.com)
 
 - ⚡ Fun fact **I think i am modest and hardworking**
