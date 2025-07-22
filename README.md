@@ -6,9 +6,6 @@
 <p align="left"> </p>
 
 - 🌱 I’m currently learning **everything**
-
-- 📝 I regularly write articles on [https://www.jiexijun.com](https://www.jiexijun.com)
-
 - ⚡ Fun fact **I think i am modest and hardworking**
 
 <h3 align="left">Connect with me:</h3>
