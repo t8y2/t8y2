@@ -11,19 +11,6 @@
 
 ---
 
-## 🌟 About Me
-
-```typescript
-const skyler = {
-  location: "China 🇨🇳",
-  currentFocus: "Learning Everything 📚",
-  philosophy: "Stay modest, work hard 💪",
-  lifeGoal: "Build products that make a difference 🎯",
-};
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
