@@ -76,25 +76,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=t8y2&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/t8y2)
 
 </div>
 
