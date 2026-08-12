@@ -4,6 +4,7 @@
 ![WeChat](https://img.shields.io/badge/VX-wiz__code-07C160?style=flat-square&logo=wechat&logoColor=white)
 ![Views](https://komarev.com/ghpvc/?username=t8y2&label=views&color=0e75b6&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/t8y2?color=ff69b4&style=flat-square)
+[![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=000000)](https://t8y2.com/sponsors/)
 
 总角之年，初触代码，不过稚子嬉戏耳。不意廿载倏忽，竟以此为业。其间由前端而后端，由桌面而数据，所学愈广，所未知者亦愈多。然探索之心，未尝稍减。
 
