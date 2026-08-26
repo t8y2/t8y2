@@ -5,6 +5,7 @@
 ![Views](https://komarev.com/ghpvc/?username=t8y2&label=views&color=0e75b6&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/t8y2?color=ff69b4&style=flat-square)
 [![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=000000)](https://t8y2.com/sponsors/)
+[![小红书](https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E4%B8%BB%E9%A1%B5-FF2442?style=flat-square)](https://www.xiaohongshu.com/user/profile/698eefb8000000002102eccf)
 
 总角之年，初触代码，不过稚子嬉戏耳。不意廿载倏忽，竟以此为业。其间由前端而后端，由桌面而数据，所学愈广，所未知者亦愈多。然探索之心，未尝稍减。
 
