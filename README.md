@@ -14,7 +14,7 @@
 
 性 INTJ，讷言敏行。不尚空谈，不好著文，但以代码见真章。每有所思，辄夜半起而操键，不知东方之既白。
 
-躬耕开源，[dbx](https://github.com/t8y2/dbx)、[UniHub](https://github.com/t8y2/unihub)、[PolarisDesk](https://github.com/t8y2/PolarisDesk) 皆心血之作。
+躬耕开源，[DBX](https://github.com/t8y2/dbx)、[UniHub](https://github.com/t8y2/unihub)、[PolarisDesk](https://github.com/t8y2/PolarisDesk) 皆心血之作。
 每成一器，必倾力而为。从无到有，其间自有乐趣；倘有用户称善，则足矣。
 
 造物而已，尽心而已。
@@ -23,20 +23,20 @@
 
 ### 🚧 Building
 
-- **[dbx](https://github.com/t8y2/dbx)** [![GitHub stars](https://img.shields.io/github/stars/t8y2/dbx?style=social)](https://github.com/t8y2/dbx) — 轻量级跨平台数据库管理工具，支持 90+ 数据库，桌面端 / CLI / Docker / 内置 AI
-- **[UniHub](https://github.com/t8y2/unihub)** [![GitHub stars](https://img.shields.io/github/stars/t8y2/unihub?style=social)](https://github.com/t8y2/unihub) — 现代化跨平台工具集，支持强大的插件系统
-- **[PolarisDesk](https://github.com/t8y2/PolarisDesk)** [![GitHub stars](https://img.shields.io/github/stars/t8y2/PolarisDesk?style=social)](https://github.com/t8y2/PolarisDesk) — AI 驱动的桌面助手，支持多模型服务商
+- **[DBX](https://github.com/t8y2/dbx)** <a href="https://github.com/t8y2/dbx"><img src="https://img.shields.io/github/stars/t8y2/dbx?style=social" alt="GitHub stars" height="16"></a> — 轻量级跨平台数据库管理工具，支持 90+ 数据库，桌面端 / CLI / Docker / 内置 AI
+- **[UniHub](https://github.com/t8y2/unihub)** <a href="https://github.com/t8y2/unihub"><img src="https://img.shields.io/github/stars/t8y2/unihub?style=social" alt="GitHub stars" height="16"></a> — 现代化跨平台工具集，支持强大的插件系统
+- **[PolarisDesk](https://github.com/t8y2/PolarisDesk)** <a href="https://github.com/t8y2/PolarisDesk"><img src="https://img.shields.io/github/stars/t8y2/PolarisDesk?style=social" alt="GitHub stars" height="16"></a> — AI 驱动的桌面助手，支持多模型服务商
 
 ---
 
 ### 🤝 Contributing to
 
-- **[mysql_async](https://github.com/blackbeam/mysql_async)** [![GitHub stars](https://img.shields.io/github/stars/blackbeam/mysql_async?style=social)](https://github.com/blackbeam/mysql_async) — 基于 Tokio 的 Rust 异步 MySQL 驱动
-- **[rust_mysql_common](https://github.com/blackbeam/rust_mysql_common)** [![GitHub stars](https://img.shields.io/github/stars/blackbeam/rust_mysql_common?style=social)](https://github.com/blackbeam/rust_mysql_common) — MySQL 协议基础库
-- **[russh](https://github.com/Eugeny/russh)** [![GitHub stars](https://img.shields.io/github/stars/Eugeny/russh?style=social)](https://github.com/Eugeny/russh) — Rust SSH 客户端与服务端库
-- **[awesome-rust](https://github.com/rust-unofficial/awesome-rust)** [![GitHub stars](https://img.shields.io/github/stars/rust-unofficial/awesome-rust?style=social)](https://github.com/rust-unofficial/awesome-rust) — Rust 项目精选清单
-- **[soybean-admin](https://github.com/soybeanjs/soybean-admin)** [![GitHub stars](https://img.shields.io/github/stars/soybeanjs/soybean-admin?style=social)](https://github.com/soybeanjs/soybean-admin) — 清新优雅的 Vue3 中后台管理模板
-- **[Horizon](https://github.com/Thysrael/Horizon)** [![GitHub stars](https://img.shields.io/github/stars/Thysrael/Horizon?style=social)](https://github.com/Thysrael/Horizon) — AI 新闻雷达
+- **[mysql_async](https://github.com/blackbeam/mysql_async)** <a href="https://github.com/blackbeam/mysql_async"><img src="https://img.shields.io/github/stars/blackbeam/mysql_async?style=social" alt="GitHub stars" height="16"></a> — 基于 Tokio 的 Rust 异步 MySQL 驱动
+- **[rust_mysql_common](https://github.com/blackbeam/rust_mysql_common)** <a href="https://github.com/blackbeam/rust_mysql_common"><img src="https://img.shields.io/github/stars/blackbeam/rust_mysql_common?style=social" alt="GitHub stars" height="16"></a> — MySQL 协议基础库
+- **[russh](https://github.com/Eugeny/russh)** <a href="https://github.com/Eugeny/russh"><img src="https://img.shields.io/github/stars/Eugeny/russh?style=social" alt="GitHub stars" height="16"></a> — Rust SSH 客户端与服务端库
+- **[awesome-rust](https://github.com/rust-unofficial/awesome-rust)** <a href="https://github.com/rust-unofficial/awesome-rust"><img src="https://img.shields.io/github/stars/rust-unofficial/awesome-rust?style=social" alt="GitHub stars" height="16"></a> — Rust 项目精选清单
+- **[soybean-admin](https://github.com/soybeanjs/soybean-admin)** <a href="https://github.com/soybeanjs/soybean-admin"><img src="https://img.shields.io/github/stars/soybeanjs/soybean-admin?style=social" alt="GitHub stars" height="16"></a> — 清新优雅的 Vue3 中后台管理模板
+- **[Horizon](https://github.com/Thysrael/Horizon)** <a href="https://github.com/Thysrael/Horizon"><img src="https://img.shields.io/github/stars/Thysrael/Horizon?style=social" alt="GitHub stars" height="16"></a> — AI 新闻雷达
 
 ---
 
