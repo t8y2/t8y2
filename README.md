@@ -1,4 +1,4 @@
-### 余，👋 t8y2
+### 👋 余，t8y2
 
 [![Email](https://img.shields.io/badge/1156263951%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:1156263951@qq.com)
 ![WeChat](https://img.shields.io/badge/VX-wiz__code-07C160?style=flat-square&logo=wechat&logoColor=white)
