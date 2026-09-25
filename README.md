@@ -21,6 +21,25 @@
 
 ---
 
+### 🚧 Building
+
+- **[dbx](https://github.com/t8y2/dbx)** [![GitHub stars](https://img.shields.io/github/stars/t8y2/dbx?style=social)](https://github.com/t8y2/dbx) — 轻量级跨平台数据库管理工具，支持 90+ 数据库，桌面端 / CLI / Docker / 内置 AI
+- **[UniHub](https://github.com/t8y2/unihub)** [![GitHub stars](https://img.shields.io/github/stars/t8y2/unihub?style=social)](https://github.com/t8y2/unihub) — 现代化跨平台工具集，支持强大的插件系统
+- **[PolarisDesk](https://github.com/t8y2/PolarisDesk)** [![GitHub stars](https://img.shields.io/github/stars/t8y2/PolarisDesk?style=social)](https://github.com/t8y2/PolarisDesk) — AI 驱动的桌面助手，支持多模型服务商
+
+---
+
+### 🤝 Contributing to
+
+- **[mysql_async](https://github.com/blackbeam/mysql_async)** [![GitHub stars](https://img.shields.io/github/stars/blackbeam/mysql_async?style=social)](https://github.com/blackbeam/mysql_async) — 基于 Tokio 的 Rust 异步 MySQL 驱动
+- **[rust_mysql_common](https://github.com/blackbeam/rust_mysql_common)** [![GitHub stars](https://img.shields.io/github/stars/blackbeam/rust_mysql_common?style=social)](https://github.com/blackbeam/rust_mysql_common) — MySQL 协议基础库
+- **[russh](https://github.com/Eugeny/russh)** [![GitHub stars](https://img.shields.io/github/stars/Eugeny/russh?style=social)](https://github.com/Eugeny/russh) — Rust SSH 客户端与服务端库
+- **[awesome-rust](https://github.com/rust-unofficial/awesome-rust)** [![GitHub stars](https://img.shields.io/github/stars/rust-unofficial/awesome-rust?style=social)](https://github.com/rust-unofficial/awesome-rust) — Rust 项目精选清单
+- **[soybean-admin](https://github.com/soybeanjs/soybean-admin)** [![GitHub stars](https://img.shields.io/github/stars/soybeanjs/soybean-admin?style=social)](https://github.com/soybeanjs/soybean-admin) — 清新优雅的 Vue3 中后台管理模板
+- **[Horizon](https://github.com/Thysrael/Horizon)** [![GitHub stars](https://img.shields.io/github/stars/Thysrael/Horizon?style=social)](https://github.com/Thysrael/Horizon) — AI 新闻雷达
+
+---
+
 ### 🛠 技术栈
 
 **编程语言**
@@ -126,7 +145,6 @@
 
 ### 🌱 当前动态
 
-- 🔨 正在开发 [dbx](https://github.com/t8y2/dbx) — 轻量级跨平台数据库客户端
 - 🎵 最近循环：**Lady Gaga — The Cure**
 
 ---
