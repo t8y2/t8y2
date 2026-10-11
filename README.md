@@ -31,6 +31,7 @@
 
 ### 🤝 Contributing to
 
+- **[Tauri Plugins](https://github.com/tauri-apps/plugins-workspace)** <a href="https://github.com/tauri-apps/plugins-workspace"><img src="https://img.shields.io/github/stars/tauri-apps/plugins-workspace?style=social" alt="GitHub stars" height="16"></a> — Tauri 官方插件集合，为跨平台应用提供自动更新、文件系统、通知等原生能力
 - **[mysql_async](https://github.com/blackbeam/mysql_async)** <a href="https://github.com/blackbeam/mysql_async"><img src="https://img.shields.io/github/stars/blackbeam/mysql_async?style=social" alt="GitHub stars" height="16"></a> — 基于 Tokio 的 Rust 异步 MySQL 驱动
 - **[rust_mysql_common](https://github.com/blackbeam/rust_mysql_common)** <a href="https://github.com/blackbeam/rust_mysql_common"><img src="https://img.shields.io/github/stars/blackbeam/rust_mysql_common?style=social" alt="GitHub stars" height="16"></a> — MySQL 协议基础库
 - **[russh](https://github.com/Eugeny/russh)** <a href="https://github.com/Eugeny/russh"><img src="https://img.shields.io/github/stars/Eugeny/russh?style=social" alt="GitHub stars" height="16"></a> — Rust SSH 客户端与服务端库
